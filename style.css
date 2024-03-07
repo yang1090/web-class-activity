@@ -33,6 +33,7 @@ body {
 .rating-box .stars {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 25px;
 }
 
